@@ -1,16 +1,13 @@
-## Hi there 👋
+# Krishna Chaitanya Gangisetty
 
-<!--
-**kc-gangisetty/kc-gangisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Engineer | Data platform reliability and governance for healthcare and AI-ready enterprise data
 
-Here are some ideas to get you started:
+I work on cloud data platforms (Azure, Snowflake, Azure Data Factory) with a focus on production reliability, observability, and governed access to sensitive data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:**
+- Building an open-source set of alert patterns for data pipeline observability
+- Writing about failure patterns in enterprise data platforms
+
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/krishnachaitanyagangisetty) | ORCID: [pending]
+
+Views and projects here are my own.
