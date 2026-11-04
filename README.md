@@ -8,6 +8,6 @@ I work on cloud data platforms (Azure, Snowflake, Azure Data Factory) with a foc
 - Building an open-source set of alert patterns for data pipeline observability
 - Writing about failure patterns in enterprise data platforms
 
-**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/krishnachaitanyagangisetty) | ORCID: [pending]
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/krishnachaitanyagangisetty) | [ORCID](https://orcid.org/0009-0001-6879-6530)
 
 Views and projects here are my own.
